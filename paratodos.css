@@ -1,0 +1,105 @@
+h1{text-align:center;font-family:Algerian;color:red;font-size:50px;}
+h2 {text-align:center;font-family:Algerian;color:red;font-size:50;}
+p{font-family:Arial;font-size:25px;font-weight:bold;text-indent:30px;text-align: justify;margin-top:15px; margin-left: 15px;margin-right:15px ;}
+body{background-image: url("imagenes/fondo4.jpg")}
+h3{text-align:right;font-family:Arial;font-size:25px;}
+tr{ background-color:#80EF01;}
+td {text-align:left;font-family:ARIAL}
+#final{text-align: center;}
+#cabecera{text-align: center;}
+#cabecera li{display:inline-block; 
+
+    border-style:solid;
+    
+    border-color:rgb(226, 18, 4);
+
+    border: width 0px;;
+
+    border-radius:100px;
+    
+    padding: 10px;
+
+    background-color:rgb(250, 234, 12);
+
+    margin-left:10px;
+    
+    margin-right:10px;
+
+    font-weight: bold;
+
+    font-size: 20px;
+    }
+
+#cabecerali:hover {border-style:solid;
+    
+border-color:rgb(30, 18, 202);
+
+border-width: 3px;
+}
+
+#cabecera li a {font-family: 'Courier New', Courier, monospace; 
+    
+        color: rgb(233, 34, 20); 
+    
+        text-decoration: none; 
+    
+        font-weight: bold; 
+    
+        font-size: 20px;
+        }
+
+        
+
+#cabecera li a:hover { color: rgb(185, 14, 94) ;}
+   
+
+
+#final li{display:inline-block; 
+
+    border-style:solid;
+    
+    border-color:rgb(18, 247, 235);
+
+    border: width 0px;;
+
+    border-radius:100px;
+    
+    padding: 10px;
+
+    background-color:rgb(131, 4, 250);
+
+    margin-left:10px;
+    
+    margin-right:10px;
+
+    font-weight: bold;
+
+    font-size: 20px;}
+
+
+
+
+    #finalli:hover {border-style:solid;
+        
+    border-color:rgba(1, 97, 6, 0.719);
+    
+    border-width: 3px;}
+    
+    #final li a {font-family: 'Courier New', Courier, monospace; 
+        
+            color: rgb(7, 3, 3); 
+        
+            text-decoration: none; 
+        
+            font-weight: bold; 
+        
+            font-size: 20px;}
+    
+            
+    
+    #final li a:hover { color: rgba(27, 233, 8, 0.671) ;}
+
+
+
+    
+    

@@ -1,0 +1,65 @@
+/*aplicando estilo a html*/
+body {background-image: url("imagenes/fondo10.jpg");}
+h2{font-family:Engravers MT; size:5; color:indigo;text-align:center}
+p{font-family:Batang;font-size: 25px; font-weight:bold;text-indent:30px;text-align: justify}
+a{font-family:Arial;font-size: 20px;color: crimson ;}
+h1{text-align:center;font-family:Engravers MT; size:5; color:rgb(105, 25, 235);}
+
+td {text-align:left;font-family:ARIAL;background-color:yellow;}
+/*aplicando estilo a clases*/
+.slideshow {height:420px; width:620px; margin:0px auto;}
+.slideshow img { padding: 10px; border: 1px solid #ccc; background-color: #eee;}
+#slideshow
+/*aplicando estilo de capas*/
+#inicio{ float:left; }
+#general {width:1200px; height:700px; margin:0px auto; }
+#texto { width:1200; height:200; float:left ;margin-top:10px; margin-left:10px; float:left;}
+#fotos{ width:400px; height:300; text-align:center; margin-top:10px; margin-left:10px;float:left;}
+#contenido{margin-top:10px; margin-left: 10px;float:left;}
+#cabecera{margin-top:10px; margin-left: 10px;float:left;}
+#pie{margin-top:20px; margin-left: 320px;float:left}
+
+#cabecera li{display:inline-block;
+    text-align: right; 
+
+    border-style:solid;
+    
+    border-color:rgb(211, 226, 4);
+
+    border-width: 10px;
+
+    border-radius: 10px;
+    
+    padding: 10px;
+
+    background-color:rgb(172, 21, 241);
+
+    margin-left:10px;
+    
+    margin-right:10px;
+
+    font-weight: bold;
+
+    font-size: 25px;}
+
+#cabecera li:hover {border-style:solid;
+    
+border-color:rgb(202, 18, 193);
+
+border-width: 10px;}
+
+#cabecera li a {font-family: 'Courier New', Courier, monospace; 
+    
+        color: rgb(14, 13, 13); 
+    
+        text-decoration: none; 
+    
+        font-weight: bold; 
+    
+        font-size: 25px;}
+
+        
+
+#cabecera li a:hover { color:aqua;
+                            
+               font-weight: bold; }     

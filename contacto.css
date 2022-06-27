@@ -1,0 +1,45 @@
+h1 {text-align:center;font-family:Algerian;color:#50009C}
+tr{background-color:#7CEE10;}
+body{background-image: url("imagenes/fondo4.jpg")}
+#cabecera li{display:inline-block; 
+
+    border-style:solid;
+    
+    border-color:rgb(226, 18, 4);
+
+    border: width 0px;;
+
+    border-radius:100px;
+    
+    padding: 10px;
+
+    background-color:rgb(250, 234, 12);
+
+    margin-left:10px;
+    
+    margin-right:10px;
+
+    font-weight: bold;
+
+    font-size: 20px;}
+
+#cabecerali:hover {border-style:solid;
+    
+border-color:rgb(30, 18, 202);
+
+border-width: 3px;}
+
+#cabecera li a {font-family: 'Courier New', Courier, monospace; 
+    
+        color: rgb(233, 34, 20); 
+    
+        text-decoration: none; 
+    
+        font-weight: bold; 
+    
+        font-size: 20px;}
+
+        
+
+#cabecera li a:hover { color: rgb(185, 14, 94) ;}
+   
