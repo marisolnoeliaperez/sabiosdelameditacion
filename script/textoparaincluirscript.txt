@@ -1,0 +1,17 @@
+Texto para incluir el script, agregar entre las etiquetas <head> y </head> del documento HTML
+
+
+<!-- include jQuery library -->
+<script type="text/javascript" src="../script/jquery.min.js"></script>
+
+<!-- include Cycle plugin -->
+<script type="text/javascript" src="../script/jquery.cycle.all.min.js"></script>
+
+<!--  initialize the slideshow when the DOM is ready -->
+<script type="text/javascript">
+$(document).ready(function() {
+    $('.slideshow').cycle({
+		fx: 'all' // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+	});
+});
+</script>
